@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @eliegdib
-- 👀 I’m interested in bioinformatics for clinicians
+- 👀 I’m interested in bioinformatics
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on bioinformatic interface for clinical use. For example, creating a croudsourscing project to develop an online informational repository for immunotherapy biomarkers.
+- 💞️ I’m looking to collaborate on bioinformatics for clinical use. 
 - 📫 How to reach me: by email
 
 <!---
